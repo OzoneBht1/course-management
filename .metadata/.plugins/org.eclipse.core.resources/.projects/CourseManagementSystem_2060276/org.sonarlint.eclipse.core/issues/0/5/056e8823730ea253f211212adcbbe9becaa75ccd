@@ -1,0 +1,15 @@
+
+m
+java:S3252">Use static access with "javax.swing.SwingConstants" for "TOP".(îÇπHëÇRCRITICALZ
+CODE_SMELL
+x
+java:S3252'"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(∫¿úxHìÇRCRITICALZ
+CODE_SMELL
+Ñ
+java:S2142>"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰†πÄHïÇRMAJORZBUG
+q
+java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ë¸®±HñÇRCRITICALZ
+CODE_SMELL
+|
+java:S1128"HRemove this unused import 'javax.swing.plaf.basic.BasicInternalFrameUI'.(èƒΩü8¨— •„/HòÇRMINORZ
+CODE_SMELL

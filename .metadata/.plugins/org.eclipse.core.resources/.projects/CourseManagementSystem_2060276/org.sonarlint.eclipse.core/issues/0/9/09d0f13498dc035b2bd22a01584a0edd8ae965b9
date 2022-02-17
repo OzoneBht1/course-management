@@ -1,0 +1,14 @@
+
+d
+java:S1128
+"0Remove this unused import 'java.sql.Connection'.(•Ћф÷8лЎаки/HНьRMINORZ
+CODE_SMELL
+f
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(џп∆Я8лЎаки/HЙьRMINORZ
+CODE_SMELL
+А
+java:S3252О"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ЇјЬx8ф∆Шве/HЛьRCRITICALZ
+CODE_SMELL
+c
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ѕ÷‘ш8лЎаки/HЗьRMINORZ
+CODE_SMELL

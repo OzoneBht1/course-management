@@ -1,0 +1,26 @@
+
+Z
+java:S10687"&Remove this unused "id" private field.(æ¨ç†8©éÖòå/HªRMAJORZ
+CODE_SMELL
+h
+java:S1128	"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8¡êåĞí/H¤RMINORZ
+CODE_SMELL
+c
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8¡êåĞí/H¦RMINORZ
+CODE_SMELL
+Š
+java:S1845G"TRename field "username" to prevent any misunderstanding/clash with field "userName".(‘ó¹²8†³Áæå/HRBLOCKERZ
+CODE_SMELL
+i
+java:S1128
+"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¡êåĞí/H›RMINORZ
+CODE_SMELL
+©
+java:S1319T"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(«Ü›Ãıÿÿÿÿ8ƒêÌèå/H¡RMINORZ
+CODE_SMELL
+‰
+java:S3252ë"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(ÑÓŸƒûÿÿÿÿ8ÆÑİªã/H™RCRITICALZ
+CODE_SMELL
+d
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8¡êåĞí/HŸRMINORZ
+CODE_SMELL

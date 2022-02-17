@@ -1,0 +1,88 @@
+
+h
+java:S1128"/Remove this unused import 'com.mysql.cj.Query'.(ûùÆ«ùÿÿÿÿ8Ü¸Âï/H¬RMINORZ
+CODE_SMELL
+c
+java:S1068@"1Remove this unused "mainPartField" private field.(£Á»ëúÿÿÿÿH®RMAJORZ
+CODE_SMELL
+`
+java:S1068a",Remove this unused "teachers" private field.(ï¾™ó8Ü¸Âï/H°RMAJORZ
+CODE_SMELL
+w
+java:S3252å"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿH²RCRITICALZ
+CODE_SMELL
+n
+java:S1128":Remove this unused import 'javax.swing.table.TableColumn'.(ŞÂ®§8Ü¸Âï/H´RMINORZ
+CODE_SMELL
+^
+java:S1068`"*Remove this unused "grades" private field.(ğ†Á8Ü¸Âï/H¶RMAJORZ
+CODE_SMELL
+^
+java:S1481ñ"+Remove this unused "course" local variable.(É…¼şÿÿÿÿH¸RMINORZ
+CODE_SMELL
+x
+java:S1128"?Remove this unused import 'javax.swing.table.TableColumnModel'.(óßãêøÿÿÿÿ8Ü¸Âï/HºRMINORZ
+CODE_SMELL
+n	java:S125“"<This block of commented-out lines of code should be removed.(¢‡ïøÿÿÿÿH¼RMAJORZ
+CODE_SMELL
+c
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8Ü¸Âï/H½RMINORZ
+CODE_SMELL
+X
+java:S10682"+Remove this unused "appInfo" private field.(ÇÏôæH¿RMAJORZ
+CODE_SMELL
+j
+java:S1128"6Remove this unused import 'java.awt.event.MouseEvent'.(›õ8Ü¸Âï/HÁRMINORZ
+CODE_SMELL
+]
+java:S1068?"0Remove this unused "appInfoField" private field.(ó±ûHÃRMAJORZ
+CODE_SMELL
+\
+java:S1068b"/Remove this unused "columnNames" private field.(ôŠ£HÅRMAJORZ
+CODE_SMELL
+\
+java:S1481ğ")Remove this unused "user" local variable.(·ˆîüÿÿÿÿHÇRMINORZ
+CODE_SMELL
+W
+java:S1481ï"*Remove this unused "level" local variable.(§3HÉRMINORZ
+CODE_SMELL
+c
+java:S1128"/Remove this unused import 'java.awt.Component'.(Ÿğ¯ö8Ü¸Âï/HËRMINORZ
+CODE_SMELL
+a
+java:S1068>"4Remove this unused "welcomeTextField" private field.(ÀÅ¬HÍRMAJORZ
+CODE_SMELL
+X
+java:S1068)"+Remove this unused "button1" private field.(İ¢ÈÒHÏRMAJORZ
+CODE_SMELL
+w
+java:S3252¦"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿHÑRCRITICALZ
+CODE_SMELL
+y
+java:S3252Ñ"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœxHÓRCRITICALZ
+CODE_SMELL
+X
+java:S1068/"+Remove this unused "button7" private field.(…ıë©HÕRMAJORZ
+CODE_SMELL
+h	java:S125€"<This block of commented-out lines of code should be removed.(‹íÿ|H×RMAJORZ
+CODE_SMELL
+a
+java:S10681"/Remove this unused "welcomeText" private field.(Ù¦ÌÇüÿÿÿÿHæRMAJORZ
+CODE_SMELL
+m
+java:S1128"9Remove this unused import 'java.awt.event.MouseListener'.(«Äñö8Ü¸Âï/HèRMINORZ
+CODE_SMELL
+V
+java:S1481ò"(Remove this unused "sem" local variable.(Ê¢¬¿HêRMINORZ
+CODE_SMELL
+d
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8Ü¸Âï/HìRMINORZ
+CODE_SMELL
+s
+java:S1128"@Remove this unused import 'javax.swing.table.TableCellRenderer'.(É¡“8Ü¸Âï/HîRMINORZ
+CODE_SMELL
+d
+java:S1068_"+Remove this unused "modules" private field.(¢äİäùÿÿÿÿ8Ü¸Âï/HğRMAJORZ
+CODE_SMELL
+n	java:S125á"<This block of commented-out lines of code should be removed.(ŒûÆªÿÿÿÿÿHòRMAJORZ
+CODE_SMELL
