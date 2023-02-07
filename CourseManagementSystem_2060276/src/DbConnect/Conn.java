@@ -18,12 +18,18 @@ public class Conn {
 
 //		establishing connection					
 		} catch (SQLException e) {
-			System.out.println("Failed to connect to database");
+			System.out.println(e);
 		}
 		try {
 
 			String query = "CREATE DATABASE cms";
 			s.executeUpdate(query);
+			String useDbQuery = "USE " + DbName;
+			try {
+				s.executeUpdate(useDbQuery);
+			} catch (SQLException e1) {
+				e1.printStackTrace();
+			}
 
 			System.out.println("Database has been created. Filling in dummy datas....");
 
@@ -59,7 +65,8 @@ public class Conn {
 				+ "  id int(11) NOT NULL AUTO_INCREMENT,\n" + "  password varchar(120) DEFAULT NULL,\n"
 				+ "  phone_number varchar(10) DEFAULT NULL,\n" + "  email varchar(100) DEFAULT NULL,\n"
 				+ "  course varchar(100) NOT NULL,\n" + "  level varchar(10) NOT NULL,\n"
-				+ "  semester varchar(1) NOT NULL,\n" + "  PRIMARY KEY (id)\n" + ");";
+				+ "  semester varchar(1) NOT NULL,\n" + "  PRIMARY KEY (id),\n" +
+				 "modules varchar(200));";
 
 		try {
 			s.executeUpdate(query);
@@ -76,7 +83,8 @@ public class Conn {
 				+ "  moduleCode varchar(100) NOT NULL,\n" + "  moduleName varchar(100) NOT NULL,\n"
 				+ "  course varchar(100) NOT NULL,\n" + "  level varchar(100) NOT NULL,\n"
 				+ "  semester varchar(100) NOT NULL,\n" + "  mandatory varchar(1) NOT NULL DEFAULT '1',\n"
-				+ "  PRIMARY KEY (`S.N`)\n" + ");";
+				+ "  PRIMARY KEY (`S.N`),\n" 
+				+ " teacher varchar(200) NOT NULL);";
 		try {
 			s.executeUpdate(query);
 			insertIntoCourse();

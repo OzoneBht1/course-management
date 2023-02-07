@@ -1,44 +1,26 @@
 
-`
-java:S1481Ã"-Remove this unused "username" local variable.(úâ‡ñÿÿÿÿÿHóRMINORZ
+\
+java:S1068K"*Remove this unused "levels" private field.(€Û¶úÿÿÿÿHš…RMAJORZ
 CODE_SMELL
-g
-java:S1191"5Use classes from the Java API instead of Sun classes.(¨èİõıÿÿÿÿHõRMAJORZ
-CODE_SMELL
-_
-java:S1128""2Remove this unused import 'course_users.Students'.(‘ŞéÍHöRMINORZ
-CODE_SMELL
-i	java:S125â"<This block of commented-out lines of code should be removed.(éã¿ÿHøRMAJORZ
+i	java:S125â"<This block of commented-out lines of code should be removed.(éã¿ÿHœ…RMAJORZ
 CODE_SMELL
 ^
-java:S1068<"1Remove this unused "noStudentText" private field.(Š³ÃÚHúRMAJORZ
+java:S1068<"1Remove this unused "noStudentText" private field.(Š³ÃÚH…RMAJORZ
 CODE_SMELL
-]
-java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖHüRMINORZ
+`
+java:S1481Ã"-Remove this unused "username" local variable.(úâ‡ñÿÿÿÿÿH …RMINORZ
 CODE_SMELL
-\
-java:S1068K"*Remove this unused "levels" private field.(€Û¶úÿÿÿÿHşRMAJORZ
-CODE_SMELL
-o
-java:S1128 "=Remove this unused import 'course_users.CourseAdministrator'.(†î²¦ùÿÿÿÿH€‚RMINORZ
-CODE_SMELL
-|
-java:S1128"JRemove this unused import 'com.sun.org.apache.bcel.internal.generic.FNEG'.(¨èİõıÿÿÿÿH‚‚RMINORZ
-CODE_SMELL
-a
-java:S1128"/Remove this unused import 'com.mysql.cj.Query'.(ûùÆ«ùÿÿÿÿH„‚RMINORZ
+g
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨èİõıÿÿÿÿH¢…RMAJORZ
 CODE_SMELL
 y
-java:S3252ª"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœxH†‚RCRITICALZ
+java:S3252ª"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœxH£…RCRITICALZ
 CODE_SMELL
 ]
-java:S1068."+Remove this unused "button4" private field.(ºé“üÿÿÿÿHˆ‚RMAJORZ
+java:S1068."+Remove this unused "button4" private field.(ºé“üÿÿÿÿH¥…RMAJORZ
 CODE_SMELL
-n	java:S125Ê"<This block of commented-out lines of code should be removed.(Ç¾ù®ùÿÿÿÿHŠ‚RMAJORZ
+n	java:S125Ê"<This block of commented-out lines of code should be removed.(Ç¾ù®ùÿÿÿÿH§…RMAJORZ
 CODE_SMELL
 w
-java:S3252ë"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿH‚RCRITICALZ
-CODE_SMELL
-\
-java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔøH‚RMINORZ
+java:S3252ë"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿHª…RCRITICALZ
 CODE_SMELL

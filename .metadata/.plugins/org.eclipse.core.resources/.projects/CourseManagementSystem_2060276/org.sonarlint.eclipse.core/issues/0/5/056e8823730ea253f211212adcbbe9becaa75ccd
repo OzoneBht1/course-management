@@ -1,15 +1,15 @@
 
-m
-java:S3252">Use static access with "javax.swing.SwingConstants" for "TOP".(”‚¹H‘‚RCRITICALZ
-CODE_SMELL
 x
-java:S3252'"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœxH“‚RCRITICALZ
+java:S3252'"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœxHûŠRCRITICALZ
 CODE_SMELL
 „
-java:S2142>"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€H•‚RMAJORZBUG
-q
-java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(èü¨±H–‚RCRITICALZ
-CODE_SMELL
+java:S2142>"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€HýŠRMAJORZBUG
 |
-java:S1128"HRemove this unused import 'javax.swing.plaf.basic.BasicInternalFrameUI'.(Ä½Ÿ8¬ÑÊ¥ã/H˜‚RMINORZ
+java:S1128"HRemove this unused import 'javax.swing.plaf.basic.BasicInternalFrameUI'.(Ä½Ÿ8¬ÑÊ¥ã/HþŠRMINORZ
+CODE_SMELL
+q
+java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(èü¨±H€‹RCRITICALZ
+CODE_SMELL
+m
+java:S3252">Use static access with "javax.swing.SwingConstants" for "TOP".(”‚¹H‚‹RCRITICALZ
 CODE_SMELL

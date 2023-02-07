@@ -27,3 +27,7 @@ E
 src/GUI/AdminGui.java,c\4\c40bc8710540bfdfb5457e820a1f6bb93391600e
 C
 src/GUI/Choice.java,6\f\6f4491e6df1096df3a5d4cebd287cadaf2ce854e
+C
+Ozone Bhattarai.txt,e\f\ef59ae498d01ace558386f802f0a636a5640186e
+D
+Knightsid Gurung.txt,6\e\6e361d9d34f0e64be49c901ad4c0e3111a97917f

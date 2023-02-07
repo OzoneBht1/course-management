@@ -1821,6 +1821,7 @@ public class AdminGui extends JFrame implements ActionListener {
 			ResultSet rs = con.s.executeQuery(query);
 			while (rs.next()) {
 				studentName.add(rs.getString(1) + " " + rs.getString(2));
+				System.out.println(studentName.get(0));
 
 			}
 		}
@@ -1849,6 +1850,7 @@ public class AdminGui extends JFrame implements ActionListener {
 					ResultSet rs = con.s.executeQuery(query);
 					if (rs.next()) {
 						lev = rs.getString(1);
+						System.out.println(lev);
 						
 
 					}
@@ -1889,7 +1891,9 @@ public class AdminGui extends JFrame implements ActionListener {
 				try {
 					ResultSet rs = con.s.executeQuery(getData);
 					if (rs.next()) {
+						System.out.println("AHIDASHNID");
 						try {
+							System.out.println(rs.getString(1));
 
 //							
 							FileWriter writer = new FileWriter(myObj.getName());

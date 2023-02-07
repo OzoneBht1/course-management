@@ -6,6 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="lib" path="D:/downloads/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="lib" path="D:/downloads/postgresql-42.5.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

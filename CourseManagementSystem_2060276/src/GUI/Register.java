@@ -366,15 +366,30 @@ public class Register extends JFrame implements ActionListener {
 								String fetchTeachers = "SELECT first_name, last_name FROM teacherdetails WHERE modules LIKE CONCAT('%','"
 										+ defaultModules.get(i) + "','%')";
 								ResultSet reSet = conn.s.executeQuery(fetchTeachers);
-								while (reSet.next()) {
+								for (int count =0 ; i < 4; i++) {
+									if (reSet.next()) {									
+								
 									if (!reSet.getString(1).isEmpty()) {
-										teachers.add(reSet.getString(1) + " " + reSet.getString(2));
-									} else {
-										teachers.add("null");
+										teachers.add(reSet.getString(1));										
 									}
-
+									}
+									else {
+										teachers.add(null);
+										
+									}
+								
 								}
+//								while (reSet.next()) {
+//									System.out.println(reSet.getString(1));
+//									if (!reSet.getString(1).isEmpty()) {
+//										teachers.add(reSet.getString(1) + " " + reSet.getString(2));
+//									} else {
+//										teachers.add("null");
+//									}
+//
+//								}
 							}
+							System.out.println(teachers.get(0)+ teachers.get(3));
 							updateTeachers = String.format(
 									"UPDATE level4results SET teacher1 = '%s', teacher2 = '%s', teacher3 = '%s', teacher4='%s'",
 									teachers.get(0), teachers.get(1), teachers.get(2), teachers.get(3));

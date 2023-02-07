@@ -1,7 +1,7 @@
 
-s
-java:S3252'">Use static access with "javax.swing.SwingConstants" for "TOP".(»ÈÏ…ÿÿÿÿÿH˜üRCRITICALZ
-CODE_SMELL
 t
-java:S3252("?Use static access with "javax.swing.SwingConstants" for "LEFT".(‘©ÉæûÿÿÿÿH–üRCRITICALZ
+java:S3252("?Use static access with "javax.swing.SwingConstants" for "LEFT".(‘©ÉæûÿÿÿÿHÕ‹RCRITICALZ
+CODE_SMELL
+s
+java:S3252'">Use static access with "javax.swing.SwingConstants" for "TOP".(»ÈÏ…ÿÿÿÿÿH×‹RCRITICALZ
 CODE_SMELL

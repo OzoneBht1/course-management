@@ -1,79 +1,79 @@
 
+y
+java:S3252¤"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœxH¼‹RCRITICALZ
+CODE_SMELL
+ƒ
+java:S1128$"JRemove this unused import 'com.sun.org.apache.bcel.internal.generic.FNEG'.(¨èİõıÿÿÿÿ8°“ªæâ0HÿŒRMINORZ
+CODE_SMELL
+d
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8°“ªæâ0HùŒRMINORZ
+CODE_SMELL
+b
+java:S1128")Remove this unused import 'java.net.IDN'.(ÍÕ½¹ûÿÿÿÿ8°“ªæâ0H÷ŒRMINORZ
+CODE_SMELL
+w
+java:S3252æ"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿH¢‹RCRITICALZ
+CODE_SMELL
+b
+java:S1068›"/Remove this unused "level5Label" private field.(çª±øÿÿÿÿH²‹RMAJORZ
+CODE_SMELL
+Z
+java:S1068",Remove this unused "button11" private field.(–³ »HÀ‹RMAJORZ
+CODE_SMELL
+i	java:S125¾
+"<This block of commented-out lines of code should be removed.(éã¿ÿH¸‹RMAJORZ
+CODE_SMELL
+c
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8°“ªæâ0HûŒRMINORZ
+CODE_SMELL
+w
+java:S3252–"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿHÅ‹RCRITICALZ
+CODE_SMELL
+^
+java:S1068"0Remove this unused "moduleString" private field.(âùª¤H¾‹RMAJORZ
+CODE_SMELL
+]
+java:S1068"*Remove this unused "course" private field.(™’ÈÿÿÿÿÿHÇ‹RMAJORZ
+CODE_SMELL
+T
+java:S1068“"&Remove this unused "t1" private field.(Ø¾İîH¦‹RMAJORZ
+CODE_SMELL
+\
+java:S1068ˆ")Remove this unused "level" private field.(ç†³ÎıÿÿÿÿH¤‹RMAJORZ
+CODE_SMELL
+h
+java:S1128#"/Remove this unused import 'com.mysql.cj.Query'.(ûùÆ«ùÿÿÿÿ8°“ªæâ0HıŒRMINORZ
+CODE_SMELL
+f
+java:S1128)"2Remove this unused import 'course_users.Students'.(‘ŞéÍ8°“ªæâ0HRMINORZ
+CODE_SMELL
+b
+java:S1068œ"/Remove this unused "level6label" private field.(ñÁ˜“ıÿÿÿÿH¶‹RMAJORZ
+CODE_SMELL
 [
-java:S1172‰"-Remove this unused method parameter "course".(È”†‡Hæ€RMAJORZ
+java:S1172‰"-Remove this unused method parameter "course".(È”†‡H´‹RMAJORZ
 CODE_SMELL
 a
-java:S1068:"/Remove this unused "welcomeText" private field.(Ù¦ÌÇüÿÿÿÿHè€RMAJORZ
-CODE_SMELL
-g
-java:S1191$"5Use classes from the Java API instead of Sun classes.(¨èİõıÿÿÿÿHê€RMAJORZ
+java:S1068:"/Remove this unused "welcomeText" private field.(Ù¦ÌÇüÿÿÿÿH¬‹RMAJORZ
 CODE_SMELL
 w
 java:S3252È
-"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿHë€RCRITICALZ
+"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿHº‹RCRITICALZ
 CODE_SMELL
-\
-java:S1068Ÿ".Remove this unused "studentLev" private field.(Ôğ¸Hí€RMAJORZ
-CODE_SMELL
-w
-java:S3252æ"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿHï€RCRITICALZ
-CODE_SMELL
-]
-java:S1068"*Remove this unused "course" private field.(™’ÈÿÿÿÿÿHñ€RMAJORZ
+[
+java:S1172´"-Remove this unused method parameter "course".(ƒÅ”èH¨‹RMAJORZ
 CODE_SMELL
 e
-java:S1068¥"2Remove this unused "defaultModules" private field.(ØÓÆÿÿÿÿÿHó€RMAJORZ
-CODE_SMELL
-i	java:S125¾
-"<This block of commented-out lines of code should be removed.(éã¿ÿHõ€RMAJORZ
-CODE_SMELL
-[
-java:S1128")Remove this unused import 'java.net.IDN'.(ÍÕ½¹ûÿÿÿÿH÷€RMINORZ
-CODE_SMELL
-b
-java:S1068›"/Remove this unused "level5Label" private field.(çª±øÿÿÿÿHù€RMAJORZ
-CODE_SMELL
-b
-java:S1068œ"/Remove this unused "level6label" private field.(ñÁ˜“ıÿÿÿÿHû€RMAJORZ
-CODE_SMELL
-^
-java:S1068"0Remove this unused "moduleString" private field.(âùª¤Hı€RMAJORZ
-CODE_SMELL
-y
-java:S3252¤"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœxHÿ€RCRITICALZ
+java:S1068¥"2Remove this unused "defaultModules" private field.(ØÓÆÿÿÿÿÿHÂ‹RMAJORZ
 CODE_SMELL
 \
-java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔøHRMINORZ
+java:S1068Ÿ".Remove this unused "studentLev" private field.(Ôğ¸H°‹RMAJORZ
 CODE_SMELL
-[
-java:S1172´"-Remove this unused method parameter "course".(ƒÅ”èHƒRMAJORZ
+g
+java:S1191$"5Use classes from the Java API instead of Sun classes.(¨èİõıÿÿÿÿHÄ‹RMAJORZ
 CODE_SMELL
-]
-java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖH…RMINORZ
-CODE_SMELL
-_
-java:S1128)"2Remove this unused import 'course_users.Students'.(‘ŞéÍH‡RMINORZ
-CODE_SMELL
-T
-java:S1068“"&Remove this unused "t1" private field.(Ø¾İîH‰RMAJORZ
-CODE_SMELL
-|
-java:S1128$"JRemove this unused import 'com.sun.org.apache.bcel.internal.generic.FNEG'.(¨èİõıÿÿÿÿH‹RMINORZ
-CODE_SMELL
-Z
-java:S1068",Remove this unused "button11" private field.(–³ »HRMAJORZ
-CODE_SMELL
-i	java:S125İ"<This block of commented-out lines of code should be removed.(éã¿ÿHRMAJORZ
+i	java:S125İ"<This block of commented-out lines of code should be removed.(éã¿ÿHª‹RMAJORZ
 CODE_SMELL
 X
-java:S1068;"+Remove this unused "appInfo" private field.(ÇÏôæH‘RMAJORZ
-CODE_SMELL
-\
-java:S1068ˆ")Remove this unused "level" private field.(ç†³ÎıÿÿÿÿH“RMAJORZ
-CODE_SMELL
-a
-java:S1128#"/Remove this unused import 'com.mysql.cj.Query'.(ûùÆ«ùÿÿÿÿH•RMINORZ
-CODE_SMELL
-w
-java:S3252–"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿH—RCRITICALZ
+java:S1068;"+Remove this unused "appInfo" private field.(ÇÏôæH®‹RMAJORZ
 CODE_SMELL
